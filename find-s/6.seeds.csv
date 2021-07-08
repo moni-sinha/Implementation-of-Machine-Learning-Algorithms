@@ -1,0 +1,9 @@
+colour,toughness,fungus,appearance,poisonous
+green,hard,n,wrinkled,yes
+green,hard,y,smooth,no
+brown,soft,n,wrinkled,no
+orange,hard,n,wrinkled,yes
+brown,hard,y,smooth,yes
+orange,soft,y,wrinkled,no
+green,hard,n,wrinkled,yes
+green,hard,n,smooth,no
