@@ -1,2 +1,2 @@
 # Implementation-of-Machine-Learning-Algorithms
-Implementation of variours machine learning algos. Language used : Python
+Implementation of various machine learning algos. Language used : Python
